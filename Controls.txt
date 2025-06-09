@@ -1,6 +1,8 @@
 Artefact for GDEV50037 - Ryan Moakes - m015485n - 23015485 
 PROJECT FOR EDUCATIONAL PURPOSES ONLY, NOT FOR COMMERICAL USE:
 
+Start at least 2 Clients, then start the server.
+
 GOAL - Dodge Moving Obstacles to WIN
 
 Menu Navigation - LMB to use buttons in the lobby and menu.
