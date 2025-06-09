@@ -1,2 +1,2 @@
 # RyanLabs---Box
-A Local Hosted Multiplayer Game, included with a client and virtual server!
+A Local Hosted Multiplayer Game, including a client and virtual server!
